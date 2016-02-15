@@ -111,6 +111,8 @@ public class jsoupTest {
 		String cmd;
 		cmd = String.format("git commit -m \"%s\" %s", today(), pictureFileName);
 		execCMD(cmd);
+		cmd = "git pull";
+		execCMD(cmd);
 		cmd = "git push";
 		execCMD(cmd);
 	}
