@@ -28,7 +28,7 @@ public class jsoupTest {
 
 	public static final String lastPostIdFileName = "max.prop";
 	public static final String firstAfterdarkPageURL = "https://v2ex.com/go/afterdark";
-	public static final String pictureFilePath = "/Users/username/workspace/v2exAfterDarkPicture";
+	public static final String pictureFilePath = "/home/royz/v2exAfterDarkPicture";
 	public static final String pictureFileName = "pictures.md";
 	public static final String logName = "logs.log";
 
