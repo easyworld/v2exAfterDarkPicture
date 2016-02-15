@@ -151,7 +151,7 @@ public class jsoupTest {
 		List<String> urls = getNewPosts();
 		if (urls != null && !urls.isEmpty()) {
 			for (String str : urls) {
-				sb.append(getImg2String(str, 0));
+				sb.append(getImg2String(str, 12345 + r.nextInt(12345)));
 			}
 			addURL2HeadOfFile(sb.toString());
 			setLastPostId(Long.parseLong(RegExp.exec("/t/(\\d+)", urls.get(0))[0]));
