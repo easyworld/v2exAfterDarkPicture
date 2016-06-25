@@ -1,3 +1,5 @@
+# 20160625 午夜俱乐部
+![](http://ww4.sinaimg.cn/large/90dad067gw1f4xfm4jiklg20bo09zn2n.gif)
 # 20160624 午夜俱乐部
 # 20160623 午夜俱乐部
 ![](http://ww4.sinaimg.cn/large/90dad067gw1f4xfm4jiklg20bo09zn2n.gif)
