@@ -1,3 +1,5 @@
+# 20160808 午夜俱乐部
+![](http://ww4.sinaimg.cn/large/006kiHwXgw1f6lmmukr62j311y0lcwny.jpg)
 # 20160807 午夜俱乐部
 # 20160806 午夜俱乐部
 # 20160805 午夜俱乐部
