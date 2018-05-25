@@ -1,3 +1,5 @@
+# 20180525 午夜俱乐部
+![](https://cdn.v2ex.com/friends/momenta/momenta_20180518.gif)
 # 20180524 午夜俱乐部
 ![](https://cdn.v2ex.com/friends/momenta/momenta_20180518.gif)
 # 20180523 午夜俱乐部
