@@ -1,3 +1,5 @@
+# 20180602 午夜俱乐部
+![](https://cdn.v2ex.com/friends/polyv/polyv_20180601.gif)
 # 20180531 午夜俱乐部
 ![](https://cdn.v2ex.com/friends/polyv/polyv_20180601.gif)
 # 20180530 午夜俱乐部
