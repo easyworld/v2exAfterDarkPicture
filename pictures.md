@@ -1,3 +1,5 @@
+# 20180622 午夜俱乐部
+![](https://v2ex.assets.uxengine.net/assets/sidebar/polyv_20180622.gif)
 # 20180618 午夜俱乐部
 ![](https://cdn.v2ex.com/friends/polyv/polyv_20180601.gif)
 ![](http://ww3.sinaimg.cn/bmiddle/40be9ba7gw1ebbdde2uifg20a2022tcg.gif)
