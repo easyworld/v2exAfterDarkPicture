@@ -1,3 +1,5 @@
+# 20190622 午夜俱乐部
+![](https://cdn.v2ex.com/assets/sidebar/polyv_20190529.png)
 # 20190620 午夜俱乐部
 ![](https://cdn.v2ex.com/assets/sidebar/polyv_20190529.png)
 # 20190615 午夜俱乐部
