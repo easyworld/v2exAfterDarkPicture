@@ -1,3 +1,6 @@
+# 20191225 午夜俱乐部
+![](https://i.imgur.com/zsbCNOA.png)
+![](https://i.imgur.com/SSBgizF.png)
 # 20191224 午夜俱乐部
 # 20191223 午夜俱樂部
 # 四战考研？有必要吗？还是去培训？
